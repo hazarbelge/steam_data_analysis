@@ -10,7 +10,7 @@ def show_bar_plot(data_set):
 
     yearly_part = yearly[yearly.index < sep_year]
     sns.barplot(y=yearly_part, x=yearly_part.index, color='red')
-    plt.title(f'Total games released in 1997-{sep_year} years')
+    plt.title(f'Released in 1997-{sep_year-1} years')
     plt.xlabel('Year')
-    plt.ylabel('Total games')
+    plt.ylabel('Total Games')
     plt.show()

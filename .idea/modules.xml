@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/steamDataAnalysis.iml" filepath="$PROJECT_DIR$/.idea/steamDataAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/steam_data_analysis.iml" filepath="$PROJECT_DIR$/.idea/steam_data_analysis.iml" />
     </modules>
   </component>
 </project>
