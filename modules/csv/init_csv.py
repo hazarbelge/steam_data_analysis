@@ -12,7 +12,10 @@ def initialize_data_set():
     data_set = data_set.assign(**{'overall_reviews': data_set.positive_ratings + data_set.negative_ratings})
     data_set = data_set.assign(**{'positive_rate': data_set.positive_ratings / data_set.overall_reviews})
 
+    data_set = data_set.assign(**{'has_age_rating': data_set.required_age > 0})
+
     data_set = data_set.assign(**{'has_achievements': data_set.achievements > 0})
+
     data_set = data_set.assign(**{'free': data_set.price == 0})
 
     data_set['release_date'] = pd.to_datetime(data_set['release_date'])
