@@ -1,7 +1,6 @@
-import pandas as pd
-
 from matplotlib import rcParams
 import seaborn as sns
+import pandas as pd
 
 
 def initialize_data_set():
@@ -18,14 +17,14 @@ def initialize_data_set():
 
     data_set['release_date'] = pd.to_datetime(data_set['release_date'])
 
+    return data_set
 
-def configure_table():
+
+def configure_rc_params():
     rcParams['figure.figsize'] = 8, 6
-    rcParams['axes.titlesize'] = 20
-    rcParams['axes.labelsize'] = 16
-    rcParams['xtick.labelsize'] = 16
-    rcParams['ytick.labelsize'] = 16
-    rcParams['legend.fontsize'] = 12
-
-    palette = sns.color_palette("Blues_d")
-    default_color = palette[2]
+    rcParams['axes.titlesize'] = 18
+    rcParams['axes.labelsize'] = 14
+    rcParams['xtick.labelsize'] = 14
+    rcParams['ytick.labelsize'] = 14
+    rcParams['legend.fontsize'] = 11
+    return rcParams
