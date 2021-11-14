@@ -2,6 +2,8 @@ from modules.csv import init_csv
 from modules.data_set.achievements import achievements
 from modules.data_set.age_rating import age_rating
 from modules.data_set.english_support import english_support
+from modules.data_set.owners import owners
+from modules.data_set.release_date import release_date
 
 
 def initialize_analysis():
@@ -23,8 +25,22 @@ def english_support_analysis():
     english_support.show_pie_chart(data_set)
 
 
-data_set = initialize_analysis()
+def owners_analysis():
+    owners.show_counter_plot(data_set)
 
-achievements_analysis()
-age_rating_analysis()
-english_support_analysis()
+
+def release_date_analysis():
+    release_date.show_bar_plot(data_set)
+
+
+def run_analysis():
+    achievements_analysis()
+    age_rating_analysis()
+    english_support_analysis()
+    owners_analysis()
+    release_date_analysis()
+
+
+data_set = initialize_analysis()
+run_analysis()
+
