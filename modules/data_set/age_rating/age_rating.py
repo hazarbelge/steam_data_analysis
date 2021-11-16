@@ -16,7 +16,7 @@ def show_pie_chart_has_age_rating(data_set):
             labels=labels,
             colors=colors,
             autopct='%1.1f%%',
-            shadow=False,
+            shadow=True,
             startangle=45,
         )
 
@@ -30,7 +30,7 @@ def show_pie_chart_with_age_rating(data_set):
     labels = '3+', '7+', '12+', '16+', '18+'
     sizes = [age_dict[3], age_dict[7], age_dict[12], age_dict[16], age_dict[18]]
     colors = ['lightskyblue', 'green', 'gold', 'pink', 'purple']
-    explode = (0, 0, 0, 0, 0)
+    explode = (0, 0.1, 0.075, 0.05, 0.025)
 
     with sns.color_palette("colorblind"):
         plt.pie(
@@ -39,7 +39,7 @@ def show_pie_chart_with_age_rating(data_set):
             labels=labels,
             colors=colors,
             autopct='%1.1f%%',
-            shadow=False,
+            shadow=True,
             startangle=45,
         )
 

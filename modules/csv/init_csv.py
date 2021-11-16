@@ -23,7 +23,6 @@ def initialize_data_set():
 
 
 def configure_rc_params():
-    print(rcParams.keys())
     rcParams['figure.figsize'] = 8, 6
     rcParams['font.family'] = 'Courier New',
     rcParams['font.size'] = 12.0

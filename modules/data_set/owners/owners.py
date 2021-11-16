@@ -28,14 +28,26 @@ def show_counter_plot(data_set):
     mask_4 = data_set.owners.isin(
         [
             '200000-500000',
-            '500000-1000000',
         ]
     )
-    data_set.loc[mask_4, 'owners'] = '200K-1M'
+    data_set.loc[mask_4, 'owners'] = '200K-500K'
 
     mask_5 = data_set.owners.isin(
         [
+            '500000-1000000',
+        ]
+    )
+    data_set.loc[mask_5, 'owners'] = '500K-1M'
+
+    mask_6 = data_set.owners.isin(
+        [
             '1000000-2000000',
+        ]
+    )
+    data_set.loc[mask_6, 'owners'] = '1M-2M'
+
+    mask_7 = data_set.owners.isin(
+        [
             '2000000-5000000',
             '5000000-10000000',
             '10000000-20000000',
@@ -44,7 +56,7 @@ def show_counter_plot(data_set):
             '100000000-200000000',
         ]
     )
-    data_set.loc[mask_5, 'owners'] = '1M+'
+    data_set.loc[mask_7, 'owners'] = '2M+'
 
     sns.countplot(
         data=data_set,

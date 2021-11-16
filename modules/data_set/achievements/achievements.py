@@ -16,7 +16,7 @@ def show_pie_chart(data_set):
             labels=labels,
             colors=colors,
             autopct='%1.1f%%',
-            shadow=False,
+            shadow=True,
             startangle=45,
         )
 
