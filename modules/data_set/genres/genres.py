@@ -8,7 +8,7 @@ def show_bar_plot(data_set):
     g = sns.barplot(y=genres.index, x=genres/len(data_set), color='gold')
     vals = g.get_xticks()
     g.set_xticklabels(['{:,.0%}'.format(x) for x in vals])
-    plt.title(f'Genre/Game Count')
+    plt.title('Genres\' Percentages in All Games')
     plt.xlabel('Percentage')
     plt.ylabel('Premier Genres of Games')
     plt.show()

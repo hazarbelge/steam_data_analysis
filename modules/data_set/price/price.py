@@ -1,4 +1,6 @@
 import seaborn as sns
+import pandas as pd
+
 from matplotlib import pyplot as plt
 
 
@@ -25,9 +27,19 @@ def show_pie_chart(data_set):
     plt.show()
 
 
-def show_dist_plot(data_set):
-    sns.distplot(data_set[data_set.price <= 200].price, kde=False).set_yscale('log')
-    plt.title('Price / Game Count')
-    plt.xlabel('Price')
+def show_hist_plot(data_set):
+    prices = pd.Series(data_set[data_set.price >= 0].price)
+
+    sns.histplot(
+        prices,
+        kde=True,
+        color='purple',
+        bins=100,
+        fill=True,
+    )
+
+    plt.title('Histogram of Price')
+    plt.xlabel('Price\nMean : {:.2f} Median : {:.2f} Mode : {:.2f} Max : {:.2f}'
+               .format(prices.mean(), prices.median().mean(), prices.mode().mean(), prices.max()))
     plt.ylabel('Game Count')
     plt.show()

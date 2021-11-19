@@ -1,4 +1,6 @@
 import seaborn as sns
+import pandas as pd
+
 from matplotlib import pyplot as plt
 
 
@@ -25,11 +27,25 @@ def show_pie_chart(data_set):
     plt.show()
 
 
-def show_dist_plot(data_set):
-    g = sns.distplot(data_set.average_playtime, kde=False, rug=False)
-    g.set_yscale('log')
+def show_hist_plot(data_set):
+    average_playtime = pd.Series(data_set[data_set.average_playtime > 0].average_playtime)
 
-    plt.title('Avg Playtime / Game Count')
-    plt.ylabel("Game Count")
-    plt.xlabel("Average Playtime (hours)")
+    sns.histplot(
+        average_playtime,
+        kde=True,
+        color='purple',
+        bins=100,
+        fill=True,
+    )
+
+    plt.title('Histogram of Average Playtime')
+    plt.xlabel('Average Playtime\nMean : {:.2f} Median : {:.2f} Mode : {:.2f} Max : {:.2f}'
+        .format(
+            average_playtime.mean(),
+            average_playtime.median().mean(),
+            average_playtime.mode().mean(),
+            average_playtime.max(),
+        )
+    )
+    plt.ylabel('Game Count')
     plt.show()

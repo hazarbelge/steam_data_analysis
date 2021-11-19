@@ -17,7 +17,7 @@ def show_bar_plot(data_set):
     g = sns.barplot(y=platform_count.index, x=platform_count/len(ds), color='gold')
     vals = g.get_xticks()
     g.set_xticklabels(['{:,.0%}'.format(x) for x in vals])
-    plt.title(f'Platform/Game Count')
+    plt.title('Platforms\' Percentages in All Games')
     plt.xlabel('Percentage')
     plt.ylabel('Platforms')
     plt.show()

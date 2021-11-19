@@ -1,4 +1,5 @@
 import seaborn as sns
+import pandas as pd
 from matplotlib import pyplot as plt
 
 
@@ -69,3 +70,4 @@ def show_counter_plot(data_set):
     plt.xlabel('Owner Count')
     plt.title('Owner/Game Count')
     plt.show()
+
