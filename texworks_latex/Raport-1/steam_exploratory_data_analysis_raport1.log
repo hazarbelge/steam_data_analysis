@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  19 NOV 2021 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  19 NOV 2021 23:01
 entering extended mode
-**./steam_data_raport-1.tex
-(steam_data_raport-1.tex
+**./steam_exploratory_data_analysis_raport1.tex
+(steam_exploratory_data_analysis_raport1.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27> (IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -248,8 +248,8 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box54
 )
-(steam_data_raport-1.aux)
-\openout1 = `steam_data_raport-1.aux'.
+(steam_exploratory_data_analysis_raport1.aux)
+\openout1 = `steam_exploratory_data_analysis_raport1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -436,24 +436,21 @@ atforms_dist.png> <./assets/positive_rate_dist.png> <./assets/price_free_paid_p
 ie.png> <./assets/price_hist.png>] [4
 
  <./assets/released_date_bar.png>]
-(steam_data_raport-1.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(steam_exploratory_data_analysis_raport1.aux) ) 
 Here is how much of TeX's memory you used:
  4032 strings out of 478927
- 60225 string characters out of 2862391
- 370144 words of memory out of 3000000
+ 60465 string characters out of 2862391
+ 370184 words of memory out of 3000000
  21859 multiletter control sequences out of 15000+600000
  431215 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,66p,705b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/
-urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on steam_data_raport-1.pdf (4 pages, 501222 bytes).
+ 57i,8n,66p,725b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/e
+nc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
+iles/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on steam_exploratory_data_analysis_raport1.pdf (4 pages, 501224 
+bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
