@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 def show_dist_plot(data_set):
     p_rate = data_set[data_set.overall_reviews > 100].positive_rate
 
-    sns.distplot(
+    sns.histplot(
         p_rate,
         kde=False,
     )
