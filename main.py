@@ -76,18 +76,18 @@ def scatter_plots():
 
 
 def run_analysis():
-    #achievements_analysis()
-    #age_rating_analysis()
-    #categories_analysis()
-    #english_support_analysis()
-    #genres_analysis()
-    #owners_analysis()
-    #platforms_analysis()
-    #playtime_analysis()
-    #price_analysis()
-    #release_date_analysis()
+    achievements_analysis()
+    age_rating_analysis()
+    categories_analysis()
+    english_support_analysis()
+    genres_analysis()
+    owners_analysis()
+    platforms_analysis()
+    playtime_analysis()
+    price_analysis()
+    release_date_analysis()
     reviews_analysis()
-    #scatter_plots()
+    scatter_plots()
 
 
 data_set = initialize_analysis()
