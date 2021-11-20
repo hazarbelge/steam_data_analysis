@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  19 NOV 2021 23:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  20 NOV 2021 17:54
 entering extended mode
-**./steam_exploratory_data_analysis_raport1.tex
-(steam_exploratory_data_analysis_raport1.tex
+**./steam_exploratory_data_analysis_report1.tex
+(steam_exploratory_data_analysis_report1.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27> (IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -248,8 +248,8 @@ File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box54
 )
-(steam_exploratory_data_analysis_raport1.aux)
-\openout1 = `steam_exploratory_data_analysis_raport1.aux'.
+No file steam_exploratory_data_analysis_report1.aux.
+\openout1 = `steam_exploratory_data_analysis_report1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -265,7 +265,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
 -- Lines per column: 56 (exact).
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -293,130 +292,414 @@ l.21 }
       
 ? run
 OK, entering \nonstopmode...
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
-
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 <assets/achievements_pie.png, id=1, 578.16pt x 433.62pt>
 File: assets/achievements_pie.png Graphic file (type png)
 <use assets/achievements_pie.png>
-Package pdftex.def Info: assets/achievements_pie.png  used on input line 62.
-(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+Package pdftex.def Info: assets/achievements_pie.png  used on input line 41.
+(pdftex.def)             Requested size: 170.71451pt x 128.03589pt.
 <assets/achievements_hist.png, id=3, 1387.584pt x 734.9859pt>
 File: assets/achievements_hist.png Graphic file (type png)
 <use assets/achievements_hist.png>
-Package pdftex.def Info: assets/achievements_hist.png  used on input line 68.
+Package pdftex.def Info: assets/achievements_hist.png  used on input line 50.
 (pdftex.def)             Requested size: 252.0pt x 133.48053pt.
 <assets/age_rating_pie.png, id=4, 578.16pt x 433.62pt>
 File: assets/age_rating_pie.png Graphic file (type png)
 <use assets/age_rating_pie.png>
-Package pdftex.def Info: assets/age_rating_pie.png  used on input line 78.
-(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+Package pdftex.def Info: assets/age_rating_pie.png  used on input line 62.
+(pdftex.def)             Requested size: 177.82504pt x 133.36879pt.
+[1{C:/Users/hazar/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<assets/age_rating_has_pie.png, id=5, 578.16pt x 433.62pt>
+ <./assets/achievements_pie.png> <./assets/achievements_hist.png> <./assets/age
+_rating_pie.png>]
+<assets/age_rating_has_pie.png, id=14, 578.16pt x 433.62pt>
 File: assets/age_rating_has_pie.png Graphic file (type png)
 <use assets/age_rating_has_pie.png>
-Package pdftex.def Info: assets/age_rating_has_pie.png  used on input line 85.
+Package pdftex.def Info: assets/age_rating_has_pie.png  used on input line 70.
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<assets/categories_dist.png, id=6, 1387.584pt x 734.9859pt>
+<assets/categories_dist.png, id=15, 1387.584pt x 734.9859pt>
 File: assets/categories_dist.png Graphic file (type png)
 <use assets/categories_dist.png>
-Package pdftex.def Info: assets/categories_dist.png  used on input line 95.
-(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<assets/english_support_pie.png, id=7, 578.16pt x 433.62pt>
+Package pdftex.def Info: assets/categories_dist.png  used on input line 80.
+(pdftex.def)             Requested size: 251.99866pt x 224.77037pt.
+<assets/english_support_pie.png, id=16, 578.16pt x 433.62pt>
 File: assets/english_support_pie.png Graphic file (type png)
 <use assets/english_support_pie.png>
-Package pdftex.def Info: assets/english_support_pie.png  used on input line 105
-.
+Package pdftex.def Info: assets/english_support_pie.png  used on input line 93.
+
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<assets/genres_dist.png, id=8, 1387.584pt x 734.9859pt>
+<assets/genres_dist.png, id=17, 1387.584pt x 734.9859pt>
 File: assets/genres_dist.png Graphic file (type png)
 <use assets/genres_dist.png>
-Package pdftex.def Info: assets/genres_dist.png  used on input line 115.
-(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+Package pdftex.def Info: assets/genres_dist.png  used on input line 105.
+(pdftex.def)             Requested size: 251.99866pt x 224.77037pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
-<assets/owners_count.png, id=9, 1387.584pt x 734.9859pt>
+ []
+
+[2 <./assets/age_rating_has_pie.png> <./assets/categories_dist.png> <./assets/e
+nglish_support_pie.png> <./assets/genres_dist.png>]
+<assets/owners_count.png, id=25, 1387.584pt x 734.9859pt>
 File: assets/owners_count.png Graphic file (type png)
 <use assets/owners_count.png>
-Package pdftex.def Info: assets/owners_count.png  used on input line 125.
-(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<assets/platforms_dist.png, id=10, 578.16pt x 433.62pt>
+Package pdftex.def Info: assets/owners_count.png  used on input line 116.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
+<assets/platforms_dist.png, id=26, 578.16pt x 433.62pt>
 File: assets/platforms_dist.png Graphic file (type png)
 <use assets/platforms_dist.png>
-Package pdftex.def Info: assets/platforms_dist.png  used on input line 135.
-(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<assets/positive_rate_dist.png, id=11, 1387.584pt x 734.9859pt>
+Package pdftex.def Info: assets/platforms_dist.png  used on input line 126.
+(pdftex.def)             Requested size: 252.00041pt x 142.26135pt.
+<assets/positive_rate_dist.png, id=27, 1387.584pt x 734.9859pt>
 File: assets/positive_rate_dist.png Graphic file (type png)
 <use assets/positive_rate_dist.png>
-Package pdftex.def Info: assets/positive_rate_dist.png  used on input line 145.
+Package pdftex.def Info: assets/positive_rate_dist.png  used on input line 137.
 
 (pdftex.def)             Requested size: 252.0pt x 133.48053pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 2922) in paragraph at lines 142--143
+[]\OT1/ptm/m/n/10 The pos-i-tive rate dis-tri-bu-tion is con-cen-trated around
+ []
 
-<assets/price_free_paid_pie.png, id=12, 578.16pt x 433.62pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+! Package keyval Error: height:5cm undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ...ight:5cm]{assets/price_free_paid_pie.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<assets/price_free_paid_pie.png, id=28, 578.16pt x 433.62pt>
 File: assets/price_free_paid_pie.png Graphic file (type png)
 <use assets/price_free_paid_pie.png>
-Package pdftex.def Info: assets/price_free_paid_pie.png  used on input line 155
+Package pdftex.def Info: assets/price_free_paid_pie.png  used on input line 148
 .
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 
-Underfull \vbox (badness 6364) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
- [1{C:/Users/hazar/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+ []
 
 
- <./assets/achievements_pie.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ []
 
-<assets/price_hist.png, id=21, 1387.584pt x 734.9859pt>
+<assets/price_hist.png, id=29, 1387.584pt x 734.9859pt>
 File: assets/price_hist.png Graphic file (type png)
 <use assets/price_hist.png>
-Package pdftex.def Info: assets/price_hist.png  used on input line 161.
-(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+Package pdftex.def Info: assets/price_hist.png  used on input line 156.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<assets/released_date_bar.png, id=22, 1387.584pt x 734.9859pt>
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+61.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [3 <./assets/owners_count.png> <./assets/platforms_dist.png> <./assets/positi
+ve_rate_dist.png> <./assets/price_free_paid_pie.png>]
+<assets/released_date_bar.png, id=37, 1387.584pt x 734.9859pt>
 File: assets/released_date_bar.png Graphic file (type png)
 <use assets/released_date_bar.png>
-Package pdftex.def Info: assets/released_date_bar.png  used on input line 170.
-(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+Package pdftex.def Info: assets/released_date_bar.png  used on input line 167.
+(pdftex.def)             Requested size: 251.99866pt x 156.48244pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 182
+.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 182
+.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 1910) in paragraph at lines 202--204
+[]\OT1/ptm/m/n/10 "Does hav-ing more achieve-ments af-fects the game
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 202--204
+\OT1/ptm/m/n/10 Null Hy-poth-e-sis: There isn't any re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 202--204
+\OT1/ptm/m/n/10 Alternate Hy-poth-e-sis: There is a re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 204--206
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 210--212
+\OT1/ptm/m/n/10 Null Hy-poth-e-sis: There isn't any re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 210--212
+\OT1/ptm/m/n/10 Alternate Hy-poth-e-sis: There is a re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--212
+
+ []
+
+[4 <./assets/price_hist.png> <./assets/released_date_bar.png>]
+Underfull \hbox (badness 2478) in paragraph at lines 212--214
+\OT1/ptm/m/n/10 Null Hy-poth-e-sis: There isn't any re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 212--214
+\OT1/ptm/m/n/10 Alternate Hy-poth-e-sis: There is a re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 218--220
+\OT1/ptm/m/n/10 Null Hy-poth-e-sis: There isn't any re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 218--220
+\OT1/ptm/m/n/10 Alternate Hy-poth-e-sis: There is a re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 220--222
+\OT1/ptm/m/n/10 Null Hy-poth-e-sis: There isn't any re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 220--222
+\OT1/ptm/m/n/10 Alternate Hy-poth-e-sis: There is a re-la-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222     \item \\"
+                   Does having more reviews affects the game sales positivel...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 222--224
+\OT1/ptm/m/n/10 pos-i-tively?" This ques-tion is about a re-la-tion-ship
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 229--230
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 230--231
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 231--232
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 232--233
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 233--234
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 234--235
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235     \item \\\\
+                    "Does having more platform support affects the game sale...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235     \item \\\\"
+                     Does having more platform support affects the game sale...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 235--236
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \vbox (badness 6078) has occurred while \output is active []
+
+ [5]
+Underfull \hbox (badness 1688) in paragraph at lines 236--237
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 237--238
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 238--239
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 239--240
+\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
 
 
 ** Conference Paper **
@@ -429,30 +712,29 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2 <./assets/achievements_hist.png> <./assets/age_rating_pie.png> <./assets/age
-_rating_has_pie.png> <./assets/categories_dist.png> <./assets/english_support_p
-ie.png>] [3 <./assets/genres_dist.png> <./assets/owners_count.png> <./assets/pl
-atforms_dist.png> <./assets/positive_rate_dist.png> <./assets/price_free_paid_p
-ie.png> <./assets/price_hist.png>] [4
+[6
 
- <./assets/released_date_bar.png>]
-(steam_exploratory_data_analysis_raport1.aux) ) 
+] (steam_exploratory_data_analysis_report1.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4032 strings out of 478927
- 60465 string characters out of 2862391
- 370184 words of memory out of 3000000
- 21859 multiletter control sequences out of 15000+600000
- 431215 words of font info for 80 fonts, out of 8000000 for 9000
+ 4056 strings out of 478927
+ 60681 string characters out of 2862391
+ 371071 words of memory out of 3000000
+ 21881 multiletter control sequences out of 15000+600000
+ 431529 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,66p,725b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/e
-nc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
-iles/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on steam_exploratory_data_analysis_raport1.pdf (4 pages, 501224 
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/
+urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on steam_exploratory_data_analysis_report1.pdf (6 pages, 536005 
 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

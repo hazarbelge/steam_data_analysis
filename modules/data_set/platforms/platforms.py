@@ -14,6 +14,8 @@ def show_bar_plot(data_set):
     platform_count = ds[ds.columns.intersection(platforms_set)].sum()
     platform_count = platform_count.sort_values(ascending=False)
 
+    print(platform_count/len(ds))
+
     g = sns.barplot(y=platform_count.index, x=platform_count/len(ds), color='gold')
     vals = g.get_xticks()
     g.set_xticklabels(['{:,.0%}'.format(x) for x in vals])
