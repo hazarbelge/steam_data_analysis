@@ -17,6 +17,9 @@ def initialize_data_set():
     data_set = data_set.assign(**{'has_age_rating': data_set.required_age > 0})
     data_set = data_set.assign(**{'has_achievements': data_set.achievements > 0})
     data_set = data_set.assign(**{'free': data_set.price == 0})
+    data_set["owners_1"] = data_set["owners"].apply(lambda val: int(str(val).split("-")[0]))
+    data_set["owners_2"] = data_set["owners"].apply(lambda val: int(str(val).split("-")[1]))
+    data_set = data_set.assign(**{'owners': (data_set.owners_1 + data_set.owners_2)/2})
 
     return data_set
 
