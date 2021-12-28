@@ -105,8 +105,8 @@ def regression_plots():
 
 
 def box_plots():
-    #genres_and_owners.show_box_plot(data_set)
-    #developer_and_owners.show_box_plot(data_set)
+    genres_and_owners.show_box_plot(data_set)
+    developer_and_owners.show_box_plot(data_set)
     categories_and_owners.show_box_plot(data_set)
 
 
@@ -129,8 +129,8 @@ def run_analysis():
     #reviews_analysis()
     #correlation_map_plot()
     #scatter_plots()
-    #regression_plots()
-    box_plots()
+    regression_plots()
+    #box_plots()
 
 
 data_set = initialize_analysis()

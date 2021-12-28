@@ -27,8 +27,7 @@ def show_regression(data_set):
     model.fit(x_var, y_var)
     model.predict(x_var)
 
-    g = sns.regplot(x=x_var, y=y_var, color="r")
-    g.set_yscale('log')
+    sns.regplot(x=x_var, y=y_var, color="r")
     plt.title("Average Playtime / Owners Regression")
     plt.xlabel('Average Playtime')
     plt.ylabel('Owners')
