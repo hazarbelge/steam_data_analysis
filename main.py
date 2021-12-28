@@ -3,12 +3,15 @@ from modules.csv import init_csv
 from modules.compare import positive_rate_and_price
 from modules.compare import released_date_and_price
 from modules.compare import overall_reviews_and_positive_rate
-from modules.compare import achievements_and_owners
 from modules.compare import age_rating_and_owners
 from modules.compare import playtime_and_owners
 from modules.compare import positive_rate_and_owners
 from modules.compare import price_and_owners
 from modules.compare import release_date_and_owners
+from modules.compare import required_age_and_owners
+from modules.compare import genres_and_owners
+from modules.compare import developer_and_owners
+from modules.compare import categories_and_owners
 from modules.compare import achievements_and_owners
 from modules.compare import correlation_map
 
@@ -89,6 +92,7 @@ def scatter_plots():
     overall_reviews_and_positive_rate.show_scatter_plot(data_set)
     positive_rate_and_price.show_scatter_plot(data_set)
     released_date_and_price.show_scatter_plot(data_set)
+    required_age_and_owners.show_scatter_plot(data_set)
 
 
 def regression_plots():
@@ -97,6 +101,13 @@ def regression_plots():
     positive_rate_and_owners.show_regression(data_set)
     price_and_owners.show_regression(data_set)
     release_date_and_owners.show_regression(data_set)
+    required_age_and_owners.show_regression(data_set)
+
+
+def box_plots():
+    #genres_and_owners.show_box_plot(data_set)
+    #developer_and_owners.show_box_plot(data_set)
+    categories_and_owners.show_box_plot(data_set)
 
 
 def correlation_map_plot():
@@ -116,9 +127,10 @@ def run_analysis():
     #price_analysis()
     #release_date_analysis()
     #reviews_analysis()
-    correlation_map_plot()
-    scatter_plots()
-    regression_plots()
+    #correlation_map_plot()
+    #scatter_plots()
+    #regression_plots()
+    box_plots()
 
 
 data_set = initialize_analysis()
