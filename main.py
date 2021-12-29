@@ -7,6 +7,7 @@ from modules.compare import age_rating_and_owners
 from modules.compare import playtime_and_owners
 from modules.compare import positive_rate_and_owners
 from modules.compare import price_and_owners
+from modules.compare import platforms_and_owners
 from modules.compare import release_date_and_owners
 from modules.compare import required_age_and_owners
 from modules.compare import genres_and_owners
@@ -91,7 +92,6 @@ def scatter_plots():
     release_date_and_owners.show_scatter_plot(data_set)
     overall_reviews_and_positive_rate.show_scatter_plot(data_set)
     positive_rate_and_price.show_scatter_plot(data_set)
-    released_date_and_price.show_scatter_plot(data_set)
     required_age_and_owners.show_scatter_plot(data_set)
 
 
@@ -100,14 +100,15 @@ def regression_plots():
     playtime_and_owners.show_regression(data_set)
     positive_rate_and_owners.show_regression(data_set)
     price_and_owners.show_regression(data_set)
-    release_date_and_owners.show_regression(data_set)
+    #release_date_and_owners.show_regression(data_set)
     required_age_and_owners.show_regression(data_set)
 
 
 def box_plots():
     genres_and_owners.show_box_plot(data_set)
-    developer_and_owners.show_box_plot(data_set)
+    #developer_and_owners.show_box_plot(data_set)
     categories_and_owners.show_box_plot(data_set)
+    platforms_and_owners.show_box_plot(data_set)
 
 
 def correlation_map_plot():
@@ -116,17 +117,17 @@ def correlation_map_plot():
 
 
 def run_analysis():
-    achievements_analysis()
-    age_rating_analysis()
-    categories_analysis()
-    english_support_analysis()
-    genres_analysis()
-    owners_analysis()
-    platforms_analysis()
-    playtime_analysis()
-    price_analysis()
-    release_date_analysis()
-    reviews_analysis()
+    #achievements_analysis()
+    #age_rating_analysis()
+    #categories_analysis()
+    #english_support_analysis()
+    #genres_analysis()
+    #owners_analysis()
+    #platforms_analysis()
+    #playtime_analysis()
+    #price_analysis()
+    #release_date_analysis()
+    #reviews_analysis()
     correlation_map_plot()
     scatter_plots()
     regression_plots()

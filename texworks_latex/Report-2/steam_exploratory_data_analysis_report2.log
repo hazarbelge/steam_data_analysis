@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  28 DEC 2021 21:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  29 DEC 2021 14:07
 entering extended mode
 **./steam_exploratory_data_analysis_report2.tex
 (steam_exploratory_data_analysis_report2.tex
@@ -293,199 +293,72 @@ l.21 }
       
 ? run
 OK, entering \nonstopmode...
+<assets-1/achievements_pie.png, id=1, 578.16pt x 433.62pt>
+File: assets-1/achievements_pie.png Graphic file (type png)
+<use assets-1/achievements_pie.png>
+Package pdftex.def Info: assets-1/achievements_pie.png  used on input line 41.
+(pdftex.def)             Requested size: 170.71451pt x 128.03589pt.
+<assets-1/achievements_hist.png, id=3, 1387.584pt x 734.9859pt>
+File: assets-1/achievements_hist.png Graphic file (type png)
+<use assets-1/achievements_hist.png>
+Package pdftex.def Info: assets-1/achievements_hist.png  used on input line 50.
 
-LaTeX Warning: File `assets/achievements_pie.png' not found on input line 41.
-
-
-! Package pdftex.def Error: File `assets/achievements_pie.png' not found: using
- draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 ...paspectratio]{assets/achievements_pie.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
-1.
-(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-
-LaTeX Warning: File `assets/achievements_hist.png' not found on input line 50.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+<assets-1/age_rating_pie.png, id=4, 578.16pt x 433.62pt>
+File: assets-1/age_rating_pie.png Graphic file (type png)
+<use assets-1/age_rating_pie.png>
+Package pdftex.def Info: assets-1/age_rating_pie.png  used on input line 62.
+(pdftex.def)             Requested size: 177.82504pt x 133.36879pt.
+[1{C:/Users/hazar/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
-! Package pdftex.def Error: File `assets/achievements_hist.png' not found: usin
-g draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ...=\linewidth]{assets/achievements_hist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `assets/age_rating_pie.png' not found on input line 62.
-
-
-! Package pdftex.def Error: File `assets/age_rating_pie.png' not found: using d
-raft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 ...eepaspectratio]{assets/age_rating_pie.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `assets/age_rating_has_pie.png' not found on input line 70.
-
-
-
-! Package pdftex.def Error: File `assets/age_rating_has_pie.png' not found: usi
-ng draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 ...\linewidth]{assets/age_rating_has_pie.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `assets/categories_dist.png' not found on input line 80.
-
-
-! Package pdftex.def Error: File `assets/categories_dist.png' not found: using 
-draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80 ...,height=7.9cm]{assets/categories_dist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `assets/english_support_pie.png' not found on input line 93
+ <./assets-1/achievements_pie.png> <./assets-1/achievements_hist.png> <./assets
+-1/age_rating_pie.png>]
+<assets-1/age_rating_has_pie.png, id=14, 578.16pt x 433.62pt>
+File: assets-1/age_rating_has_pie.png Graphic file (type png)
+<use assets-1/age_rating_has_pie.png>
+Package pdftex.def Info: assets-1/age_rating_has_pie.png  used on input line 70
 .
-
-
-! Package pdftex.def Error: File `assets/english_support_pie.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 ...linewidth]{assets/english_support_pie.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `assets/genres_dist.png' not found on input line 105.
-
-
-! Package pdftex.def Error: File `assets/genres_dist.png' not found: using draf
-t setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.105 ...dth,height=7.9cm]{assets/genres_dist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+<assets-1/categories_dist.png, id=15, 1387.584pt x 734.9859pt>
+File: assets-1/categories_dist.png Graphic file (type png)
+<use assets-1/categories_dist.png>
+Package pdftex.def Info: assets-1/categories_dist.png  used on input line 80.
+(pdftex.def)             Requested size: 251.99866pt x 224.77037pt.
+<assets-1/english_support_pie.png, id=16, 578.16pt x 433.62pt>
+File: assets-1/english_support_pie.png Graphic file (type png)
+<use assets-1/english_support_pie.png>
+Package pdftex.def Info: assets-1/english_support_pie.png  used on input line 9
+3.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+<assets-1/genres_dist.png, id=17, 1387.584pt x 734.9859pt>
+File: assets-1/genres_dist.png Graphic file (type png)
+<use assets-1/genres_dist.png>
+Package pdftex.def Info: assets-1/genres_dist.png  used on input line 105.
+(pdftex.def)             Requested size: 251.99866pt x 224.77037pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-[1{C:/Users/hazar/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
-
-
-]
-
-LaTeX Warning: File `assets/owners_count.png' not found on input line 116.
-
-
-! Package pdftex.def Error: File `assets/owners_count.png' not found: using dra
-ft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.116 ...dth, height=6cm]{assets/owners_count.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: File `assets/platforms_dist.png' not found on input line 126.
-
-
-! Package pdftex.def Error: File `assets/platforms_dist.png' not found: using d
-raft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.126 ...h, height=5cm]{assets/platforms_dist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2]
-
-LaTeX Warning: File `assets/positive_rate_dist.png' not found on input line 137
-.
-
-
-! Package pdftex.def Error: File `assets/positive_rate_dist.png' not found: usi
-ng draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137 ...linewidth]{assets/positive_rate_dist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[2 <./assets-1/age_rating_has_pie.png> <./assets-1/categories_dist.png> <./asse
+ts-1/english_support_pie.png> <./assets-1/genres_dist.png>]
+<assets-1/owners_count.png, id=25, 1387.584pt x 734.9859pt>
+File: assets-1/owners_count.png Graphic file (type png)
+<use assets-1/owners_count.png>
+Package pdftex.def Info: assets-1/owners_count.png  used on input line 116.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
+<assets-1/platforms_dist.png, id=26, 578.16pt x 433.62pt>
+File: assets-1/platforms_dist.png Graphic file (type png)
+<use assets-1/platforms_dist.png>
+Package pdftex.def Info: assets-1/platforms_dist.png  used on input line 126.
+(pdftex.def)             Requested size: 252.00041pt x 142.26135pt.
+<assets-1/positive_rate_dist.png, id=27, 1387.584pt x 734.9859pt>
+File: assets-1/positive_rate_dist.png Graphic file (type png)
+<use assets-1/positive_rate_dist.png>
+Package pdftex.def Info: assets-1/positive_rate_dist.png  used on input line 13
+7.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
 
 Underfull \hbox (badness 2922) in paragraph at lines 142--143
 []\OT1/ptm/m/n/10 The pos-i-tive rate dis-tri-bu-tion is con-cen-trated around
@@ -497,41 +370,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--143
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 ! Package keyval Error: height:5cm undefined.
 
 See the keyval package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.148 ...ight:5cm]{assets/price_free_paid_pie.png}
+l.148 ...ht:5cm]{assets-1/price_free_paid_pie.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-
-LaTeX Warning: File `assets/price_free_paid_pie.png' not found on input line 14
-8.
-
-
-! Package pdftex.def Error: File `assets/price_free_paid_pie.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.148 ...ight:5cm]{assets/price_free_paid_pie.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+<assets-1/price_free_paid_pie.png, id=28, 578.16pt x 433.62pt>
+File: assets-1/price_free_paid_pie.png Graphic file (type png)
+<use assets-1/price_free_paid_pie.png>
+Package pdftex.def Info: assets-1/price_free_paid_pie.png  used on input line 1
+48.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
@@ -542,22 +397,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-
-LaTeX Warning: File `assets/price_hist.png' not found on input line 156.
-
-
-! Package pdftex.def Error: File `assets/price_hist.png' not found: using draft
- setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.156 ...width, height=6cm]{assets/price_hist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<assets-1/price_hist.png, id=29, 1387.584pt x 734.9859pt>
+File: assets-1/price_hist.png Graphic file (type png)
+<use assets-1/price_hist.png>
+Package pdftex.def Info: assets-1/price_hist.png  used on input line 156.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -565,31 +409,18 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 61.
 (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-
-LaTeX Warning: File `assets/released_date_bar.png' not found on input line 167.
-
-
-
-! Package pdftex.def Error: File `assets/released_date_bar.png' not found: usin
-g draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.167 ...height=5cm]{assets/released_date_bar.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3]
+) [3 <./assets-1/owners_count.png> <./assets-1/platforms_dist.png> <./assets-1/
+positive_rate_dist.png> <./assets-1/price_free_paid_pie.png>]
+<assets-1/released_date_bar.png, id=37, 1387.584pt x 734.9859pt>
+File: assets-1/released_date_bar.png Graphic file (type png)
+<use assets-1/released_date_bar.png>
+Package pdftex.def Info: assets-1/released_date_bar.png  used on input line 167
+.
+(pdftex.def)             Requested size: 251.99866pt x 142.26186pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 182
 .
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 182
@@ -612,7 +443,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--204
 
  []
 
-[4]
+
 Underfull \hbox (badness 1688) in paragraph at lines 204--206
 \OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
  []
@@ -642,7 +473,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
 
-
+[4 <./assets-1/price_hist.png> <./assets-1/released_date_bar.png>]
 Underfull \hbox (badness 2478) in paragraph at lines 212--214
 \OT1/ptm/m/n/10 Null Hy-poth-e-sis: There isn't any re-la-tion be-tween
  []
@@ -707,141 +538,320 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--224
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 229--230
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
 
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 230--231
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<assets-2/correlation_map.png, id=44, 1387.584pt x 734.9859pt>
+File: assets-2/correlation_map.png Graphic file (type png)
+<use assets-2/correlation_map.png>
+Package pdftex.def Info: assets-2/correlation_map.png  used on input line 232.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+
+! Undefined control sequence.
+l.236 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/correlation_matrix.png, id=45, 1387.584pt x 734.9859pt>
+File: assets-2/correlation_matrix.png Graphic file (type png)
+<use assets-2/correlation_matrix.png>
+Package pdftex.def Info: assets-2/correlation_matrix.png  used on input line 23
+9.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+! Undefined control sequence.
+l.243 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/achievements_owners_scatter.png, id=46, 1387.584pt x 734.9859pt>
+File: assets-2/achievements_owners_scatter.png Graphic file (type png)
+<use assets-2/achievements_owners_scatter.png>
+Package pdftex.def Info: assets-2/achievements_owners_scatter.png  used on inpu
+t line 248.
+(pdftex.def)             Requested size: 251.99866pt x 85.3571pt.
+! Undefined control sequence.
+l.252 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/achievements_owners_regression.png, id=47, 1387.584pt x 734.9859pt>
+File: assets-2/achievements_owners_regression.png Graphic file (type png)
+<use assets-2/achievements_owners_regression.png>
+Package pdftex.def Info: assets-2/achievements_owners_regression.png  used on i
+nput line 255.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.259 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5 <./assets-2/correlation_map.png> <./assets-2/correlation_matrix.png> <./asse
+ts-2/achievements_owners_scatter.png>]
+<assets-2/average_playtime_owners_scatter.png, id=54, 1387.584pt x 734.9859pt>
+File: assets-2/average_playtime_owners_scatter.png Graphic file (type png)
+<use assets-2/average_playtime_owners_scatter.png>
+Package pdftex.def Info: assets-2/average_playtime_owners_scatter.png  used on 
+input line 264.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
+
+! Undefined control sequence.
+l.268 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/average_playtime_owners_regression.png, id=55, 1387.584pt x 734.9859p
+t>
+File: assets-2/average_playtime_owners_regression.png Graphic file (type png)
+<use assets-2/average_playtime_owners_regression.png>
+Package pdftex.def Info: assets-2/average_playtime_owners_regression.png  used 
+on input line 271.
+(pdftex.def)             Requested size: 251.99866pt x 142.26186pt.
+! Undefined control sequence.
+l.275 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/categories_owners_box.png, id=56, 1387.584pt x 734.9859pt>
+File: assets-2/categories_owners_box.png Graphic file (type png)
+<use assets-2/categories_owners_box.png>
+Package pdftex.def Info: assets-2/categories_owners_box.png  used on input line
+ 280.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+! Undefined control sequence.
+l.284 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/genres_owners_box.png, id=57, 1387.584pt x 734.9859pt>
+File: assets-2/genres_owners_box.png Graphic file (type png)
+<use assets-2/genres_owners_box.png>
+Package pdftex.def Info: assets-2/genres_owners_box.png  used on input line 289
+.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+! Undefined control sequence.
+l.293 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6 <./assets-2/achievements_owners_regression.png> <./assets-2/average_playtime
+_owners_scatter.png> <./assets-2/average_playtime_owners_regression.png> <./ass
+ets-2/categories_owners_box.png> <./assets-2/genres_owners_box.png>]
+<assets-2/platforms_owners_box.png, id=66, 1387.584pt x 734.9859pt>
+File: assets-2/platforms_owners_box.png Graphic file (type png)
+<use assets-2/platforms_owners_box.png>
+Package pdftex.def Info: assets-2/platforms_owners_box.png  used on input line 
+298.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+
+! Undefined control sequence.
+l.302 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/overall_reviews_and_positive_rate.png, id=67, 1387.584pt x 734.9859pt
+>
+File: assets-2/overall_reviews_and_positive_rate.png Graphic file (type png)
+<use assets-2/overall_reviews_and_positive_rate.png>
+Package pdftex.def Info: assets-2/overall_reviews_and_positive_rate.png  used o
+n input line 307.
+(pdftex.def)             Requested size: 251.99866pt x 142.26186pt.
+! Undefined control sequence.
+l.311 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/positive_rate_owners_scatter.png, id=68, 1387.584pt x 734.9859pt>
+File: assets-2/positive_rate_owners_scatter.png Graphic file (type png)
+<use assets-2/positive_rate_owners_scatter.png>
+Package pdftex.def Info: assets-2/positive_rate_owners_scatter.png  used on inp
+ut line 316.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.320 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/positive_rate_owners_regression.png, id=69, 1387.584pt x 734.9859pt>
+File: assets-2/positive_rate_owners_regression.png Graphic file (type png)
+<use assets-2/positive_rate_owners_regression.png>
+Package pdftex.def Info: assets-2/positive_rate_owners_regression.png  used on 
+input line 323.
+(pdftex.def)             Requested size: 252.0pt x 133.48053pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.327 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/price_and_positive_rate.png, id=70, 1387.584pt x 734.9859pt>
+File: assets-2/price_and_positive_rate.png Graphic file (type png)
+<use assets-2/price_and_positive_rate.png>
+Package pdftex.def Info: assets-2/price_and_positive_rate.png  used on input li
+ne 332.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
+! Undefined control sequence.
+l.336 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/price_owners_scatter.png, id=71, 1387.584pt x 734.9859pt>
+File: assets-2/price_owners_scatter.png Graphic file (type png)
+<use assets-2/price_owners_scatter.png>
+Package pdftex.def Info: assets-2/price_owners_scatter.png  used on input line 
+341.
+(pdftex.def)             Requested size: 251.99866pt x 256.07133pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.345 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<assets-2/price_owners_regression.png, id=72, 1387.584pt x 734.9859pt>
+File: assets-2/price_owners_regression.png Graphic file (type png)
+<use assets-2/price_owners_regression.png>
+Package pdftex.def Info: assets-2/price_owners_regression.png  used on input li
+ne 348.
+(pdftex.def)             Requested size: 251.99866pt x 256.07133pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.352 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 231--232
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 
  []
 
-[5]
-Underfull \hbox (badness 1688) in paragraph at lines 232--233
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
+[7 <./assets-2/platforms_owners_box.png> <./assets-2/overall_reviews_and_positi
+ve_rate.png> <./assets-2/positive_rate_owners_scatter.png> <./assets-2/positive
+_rate_owners_regression.png> <./assets-2/price_and_positive_rate.png>]
+<assets-2/release_date_price_scatter.png, id=82, 1387.584pt x 734.9859pt>
+File: assets-2/release_date_price_scatter.png Graphic file (type png)
+<use assets-2/release_date_price_scatter.png>
+Package pdftex.def Info: assets-2/release_date_price_scatter.png  used on input
+ line 357.
+(pdftex.def)             Requested size: 251.99866pt x 142.26186pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- []
+! Undefined control sequence.
+l.361 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+<assets-2/release_date_owners_scatter.png, id=83, 1387.584pt x 734.9859pt>
+File: assets-2/release_date_owners_scatter.png Graphic file (type png)
+<use assets-2/release_date_owners_scatter.png>
+Package pdftex.def Info: assets-2/release_date_owners_scatter.png  used on inpu
+t line 364.
+(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
 
-Underfull \hbox (badness 1688) in paragraph at lines 233--234
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
-
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 234--235
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.235     \item \\\\
-                    "Does having more platform support affects the game sale...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+! Undefined control sequence.
+l.368 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.235     \item \\\\"
-                     Does having more platform support affects the game sale...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 235--236
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
-
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 236--237
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
-
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 237--238
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
-
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 238--239
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 239--240
-\OT1/ptm/m/n/10 This ques-tion is about a re-la-tion-ship be-tween two
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
-
+Underfull \hbox (badness 4366) in paragraph at lines 370--371
+[]\OT1/ptm/m/n/10 By look-ing at the Price/Release Date and Re-lease
  []
 
 
@@ -855,27 +865,25 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6] (steam_exploratory_data_analysis_report2.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[8 <./assets-2/price_owners_scatter.png> <./assets-2/price_owners_regression.pn
+g> <./assets-2/release_date_price_scatter.png> <./assets-2/release_date_owners_
+scatter.png>] (steam_exploratory_data_analysis_report2.aux) ) 
 Here is how much of TeX's memory you used:
- 4432 strings out of 478927
- 73394 string characters out of 2862391
- 371185 words of memory out of 3000000
- 22225 multiletter control sequences out of 15000+600000
- 432044 words of font info for 83 fonts, out of 8000000 for 9000
+ 4195 strings out of 478927
+ 66310 string characters out of 2862391
+ 369338 words of memory out of 3000000
+ 22000 multiletter control sequences out of 15000+600000
+ 431529 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,66p,725b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/
-urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pf
-b><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on steam_exploratory_data_analysis_report2.pdf (6 pages, 70242 b
-ytes).
+ 57i,8n,66p,1200b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/
+MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
+><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on steam_exploratory_data_analysis_report2.pdf (8 pages, 2083129
+ bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,13 +5,11 @@ from sklearn import linear_model
 
 
 def show_scatter_plot(data_set):
-    g = sns.scatterplot(
+    sns.scatterplot(
         x="release_date",
         y="owners",
         data=data_set,
     )
-
-    g.set_yscale('log')
 
     plt.title('Release Date / Owners Scatter Plot')
     plt.xlabel('Release Date')

@@ -5,13 +5,12 @@ from sklearn import linear_model
 
 
 def show_scatter_plot(data_set):
-    g = sns.scatterplot(
+    data_set = data_set[data_set.achievements > 0]
+    sns.scatterplot(
         x="achievements",
         y="owners",
         data=data_set,
     )
-
-    g.set_yscale('log')
 
     plt.title('Achievements / Owners Scatter Plot')
     plt.xlabel('Achievements')
@@ -20,6 +19,7 @@ def show_scatter_plot(data_set):
 
 
 def show_regression(data_set):
+    data_set = data_set[data_set.achievements > 0]
     x_var = pd.DataFrame(data_set["achievements"])
     y_var = pd.DataFrame(data_set["owners"])
 

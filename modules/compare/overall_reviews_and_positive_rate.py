@@ -9,8 +9,6 @@ def show_scatter_plot(data_set):
         data=data_set,
     )
 
-    g.set_xscale('log')
-
     y_ticks = g.get_yticks()
     g.set_yticklabels(['{:,.0%}'.format(x) for x in y_ticks])
 

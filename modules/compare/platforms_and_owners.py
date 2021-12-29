@@ -2,16 +2,14 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 
 
-def show_scatter_plot(data_set):
-    g = sns.scatterplot(
-        x="platforms",
+def show_box_plot(data_set):
+    sns.boxplot(
+        x="platforms_first",
         y="owners",
         data=data_set,
     )
 
-    g.set_yscale('log')
-
-    plt.title('Platforms / Owners Scatter Plot')
+    plt.title('Platforms / Owners Box Plot')
     plt.xlabel('Platforms')
     plt.ylabel('Owners')
     plt.show()

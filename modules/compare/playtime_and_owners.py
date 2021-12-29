@@ -5,13 +5,11 @@ from sklearn import linear_model
 
 
 def show_scatter_plot(data_set):
-    g = sns.scatterplot(
+    sns.scatterplot(
         x="average_playtime",
         y="owners",
         data=data_set,
     )
-
-    g.set_yscale('log')
 
     plt.title('Average Playtime / Owners Scatter Plot')
     plt.xlabel('Average Playtime')

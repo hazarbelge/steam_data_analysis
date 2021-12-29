@@ -1,3 +1,5 @@
+import random
+
 from matplotlib import rcParams
 import pandas as pd
 
@@ -19,9 +21,9 @@ def initialize_data_set():
     data_set = data_set.assign(**{'free': data_set.price == 0})
     data_set["genres_first"] = data_set['genres'].apply(lambda x: x.split(';')[0])
     data_set["categories_first"] = data_set['categories'].apply(lambda x: x.split(';')[0])
-    data_set["owners_1"] = data_set["owners"].apply(lambda val: int(str(val).split("-")[0]))
-    data_set["owners_2"] = data_set["owners"].apply(lambda val: int(str(val).split("-")[1]))
-    data_set = data_set.assign(**{'owners': (data_set.owners_1 + data_set.owners_2)/2})
+    data_set["platforms_first"] = data_set['platforms'].apply(lambda x: x.split(';')[0])
+    data_set["owners"] = data_set["owners"].apply(lambda val: random.randint(int(str(val).split("-")[0]), int(str(val).split("-")[1])))
+    data_set = data_set[data_set.owners <= 1000000]
 
     print(data_set.info())
 
