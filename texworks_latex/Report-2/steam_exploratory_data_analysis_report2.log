@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  29 DEC 2021 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.19)  29 DEC 2021 16:41
 entering extended mode
 **./steam_exploratory_data_analysis_report2.tex
 (steam_exploratory_data_analysis_report2.tex
@@ -836,7 +836,7 @@ File: assets-2/release_date_owners_scatter.png Graphic file (type png)
 <use assets-2/release_date_owners_scatter.png>
 Package pdftex.def Info: assets-2/release_date_owners_scatter.png  used on inpu
 t line 364.
-(pdftex.def)             Requested size: 251.99866pt x 170.71422pt.
+(pdftex.def)             Requested size: 251.99866pt x 142.26186pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -855,6 +855,19 @@ Underfull \hbox (badness 4366) in paragraph at lines 370--371
  []
 
 
+Underfull \hbox (badness 2680) in paragraph at lines 378--379
+\OT1/ptm/m/n/10 sales: Plat-form, Single-player or Mul-ti-player cat-e-gories,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+[8 <./assets-2/price_owners_scatter.png> <./assets-2/price_owners_regression.pn
+g> <./assets-2/release_date_price_scatter.png> <./assets-2/release_date_owners_
+scatter.png>]
+
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
 
@@ -865,9 +878,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[8 <./assets-2/price_owners_scatter.png> <./assets-2/price_owners_regression.pn
-g> <./assets-2/release_date_price_scatter.png> <./assets-2/release_date_owners_
-scatter.png>] (steam_exploratory_data_analysis_report2.aux) ) 
+[9
+
+] (steam_exploratory_data_analysis_report2.aux) ) 
 Here is how much of TeX's memory you used:
  4195 strings out of 478927
  66310 string characters out of 2862391
@@ -876,14 +889,14 @@ Here is how much of TeX's memory you used:
  431529 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,66p,1200b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/
-MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb
-><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on steam_exploratory_data_analysis_report2.pdf (8 pages, 2083129
+{C:/Program Files/MiKTeX/fonts
+/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on steam_exploratory_data_analysis_report2.pdf (9 pages, 2084694
  bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
